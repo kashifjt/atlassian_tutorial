@@ -1,3 +1,5 @@
 Adding this file to test git log command.
+
 Adding another line to see, how file history is maintained.
-Adding another line to see the power of git revert. Previous line#2 addition will be reverted.
+Adding another line to see the power of git revert. Previous line#2 addition will be reverted.Adding first edit for reset.
+Adding second line for reset.
